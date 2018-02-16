@@ -24,10 +24,10 @@
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git://github.com/PaystackHQ/jsencrypt.git"
   },
   "bugs": {
-    "url": "http://github.com/travist/jsencrypt/issues"
+    "url": "http://github.com/PaystackHQ/jsencrypt/issues"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
