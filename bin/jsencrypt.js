@@ -2027,6 +2027,7 @@ JSX.extend = function(subc, superc, overrides) {
   * @name KJUR
  * @namespace kjur's class library name space
  */
+var KJUR = window.KJUR;
 if (typeof KJUR == "undefined" || !KJUR) KJUR = {};
 
 /**
